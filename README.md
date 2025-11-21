@@ -4,8 +4,9 @@
 1. [Notebook principal](./P3_Redes_Neuronales.ipynb)  
 2. [Script de reconocimiento en tiempo real](./realtime_digits.py)  
 3. [Video de demostración](./video-numeros.mp4)  
-4. [Presentación](https://www.canva.com/design/DAG5S-dqzdo/gl4j03VyS2C9TyAZG0wbqg/edit?utm_content=DAG5S-dqzdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-5. [README](./README.md)
+4. [Presentación](https://www.canva.com/design/DAG5S-dqzdo/gl4j03VyS2C9TyAZG0wbqg/edit?utm_content=DAG5S-dqzdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+5. [Presentación (por si no funciona el link anterior a la ppt)](./presentacion.txt)  
+6. [README](./README.md)
 
 ---
 
